@@ -444,4 +444,32 @@ Go-Live, Schulungen, Support
 ## 9. Best Practices
 
 ### 9.1 Projektstruktur
+/src
+/Core
+/Domain
+/Application
+/Infrastructure
+/Web
+/Modules
 
+
+### 9.2 Entwicklungsprinzipien
+- SOLID  
+- DRY  
+- KISS  
+- YAGNI  
+- Clean Code  
+- Unit- & Integration-Tests  
+- CI/CD  
+
+### 9.3 Dokumentation
+- Swagger / OpenAPI  
+- Technische & Benutzer-Doku  
+- Architektur-Diagramme  
+
+### 9.4 Versionierung
+- Semantic Versioning  
+- Git Flow  
+- Changelog  
+
+---
